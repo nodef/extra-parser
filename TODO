@@ -6,5 +6,21 @@ https://github.com/no-context/moo
 
 PARSER GENERATOR
 https://github.com/no-context/gruffalo
-https://github.com/kach/nearley
 https://github.com/zaach/jison
+
+PEG vs CFG
+https://github.com/pegjs/pegjs
+https://en.wikipedia.org/wiki/Parsing_expression_grammar
+
+EARLEY
+https://github.com/kach/nearley
+
+PACKRAT
+https://github.com/pyparsing/pyparsing/blob/master/pyparsing/core.py
+https://blog.jcoglan.com/2017/07/30/packrat-parsing-a-top-down-performance-improvement/
+https://pdos.csail.mit.edu/~baford/packrat/icfp02/
+https://pdos.csail.mit.edu/~baford/packrat/thesis/
+https://bford.info/packrat/
+
+PIKA
+https://arxiv.org/pdf/2005.06444.pdf
