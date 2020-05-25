@@ -1,0 +1,10 @@
+- Chomsky normal form
+- Recursive descent parser
+
+LEXER
+https://github.com/no-context/moo
+
+PARSER GENERATOR
+https://github.com/no-context/gruffalo
+https://github.com/kach/nearley
+https://github.com/zaach/jison
