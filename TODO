@@ -8,6 +8,26 @@ PARSER GENERATOR
 https://github.com/no-context/gruffalo
 https://github.com/zaach/jison
 
+THOMPSON NFA
+http://stevehanov.ca/qb.js/console.js
+http://stevehanov.ca/qb.js/virtualmachine.js
+http://stevehanov.ca/qb.js/types.js
+http://stevehanov.ca/qb.js/CodeGenerator.js
+http://stevehanov.ca/qb.js/TypeChecker.js
+http://stevehanov.ca/qb.js/Tokenizer.js
+http://stevehanov.ca/qb.js/GlrParser.js
+http://stevehanov.ca/qb.js/RuleSet.js
+http://stevehanov.ca/qb.js/RuleParser.js
+http://stevehanov.ca/qb.js/qbasic.js
+
+GLR (TOMITA)
+https://en.wikipedia.org/wiki/GLR_parser
+https://www.gnu.org/software/bison/manual/html_node/GLR-Parsers.html
+https://www.codeproject.com/Articles/5259825/GLR-Parsing-in-Csharp-How-to-Use-The-Most-Powerful
+https://news.ycombinator.com/item?id=16858774
+https://link.springer.com/chapter/10.1007/11538356_18
+https://people.eecs.berkeley.edu/~necula/Papers/elkhound_cc04.pdf
+
 PEG vs CFG
 https://github.com/pegjs/pegjs
 https://en.wikipedia.org/wiki/Parsing_expression_grammar
